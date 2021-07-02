@@ -1,7 +1,7 @@
 <?php
  
 $secret_key = "n4f6AtJyfS5njPFKTnN55eZY4W8yG8NN"; //Set this as your secret key, to prevent others uploading to your server.
-$sharexdir = ""; //This is your file dir, also the link.. Not very important.
+$sharexdir = "a/"; //This is your file dir, also the link.. Not very important.
 $domain_url = 'https://cdn.fisherdev.tk';//Add your website here, including https://
 $lengthofstring = 7; //Length of the file name
  
